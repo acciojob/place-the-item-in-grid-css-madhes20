@@ -1,6 +1,5 @@
 .holder{
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    grid-auto-rows: minmax(200px, auto);
+    grid-template-columns: repeat(2, 200px);
 }
 /* Your CSS Code here. */
